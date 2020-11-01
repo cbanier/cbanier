@@ -1,4 +1,4 @@
-### Hi I'm Corentin Banier
+### Hi I'm Corentin Banier 👋🏻🇫🇷
 
 <!--
 **cbanier/cbanier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
