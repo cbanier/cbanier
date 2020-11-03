@@ -1,4 +1,10 @@
-### Hi I'm Corentin Banier 👋🏻🇫🇷
+
+<h2>Hi I'm Corentin Banier <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">🇫🇷</h3>
+
+[![ProtonMail Badge](https://img.shields.io/badge/ProtonMail-corentinbanier%40protonmail.com-slateblue)](mailto:corentinbanier@protonmail.com)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-cbanier1-55ACEE)](https://twitter.com/cbanier1)
+
+
 
 <!--
 **cbanier/cbanier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
