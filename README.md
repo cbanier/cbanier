@@ -8,12 +8,12 @@ Good to see you here, I'm Corentin Banier and I'm a Mathematics and Computer Sci
 [![Twitter Badge](https://img.shields.io/badge/Twitter-cbanier1-55ACEE)](https://twitter.com/cbanier1)
 
 <h3>Languages and Tools: </h3>
-<img src="/icons/apple.png">
-<img src="/icons/intellij-idea.png">
-<img src="/icons/python.png">
-<img src="/icons/c.png">
-<img src="/icons/java.png">
-<img src="/icons/terminal.png">
+<p align="left"><img src="/icons/apple.png" width="48px">
+   <img src="/icons/intellij-idea.png">
+   <img src="/icons/python.png">
+   <img src="/icons/c.png" width="48px">
+   <img src="/icons/java.jpg" width="48px">
+   <img src="/icons/terminal.png" width="48px"></p>
 
 
 <!--
