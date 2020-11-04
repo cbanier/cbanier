@@ -3,12 +3,17 @@
 
 Good to see you here, I'm Corentin Banier and I'm a Mathematics and Computer Science student at the [University of Bordeaux](https://www.u-bordeaux.com/Education/Colleges-Institutes/College-of-Science-Technology).
 
-<h3>*Fell free to contact me* 😁</h3>
+<h3>Fell free to contact me 😁</h3>
 [![ProtonMail Badge](https://img.shields.io/badge/ProtonMail-corentinbanier%40protonmail.com-slateblue)](mailto:corentinbanier@protonmail.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-cbanier1-55ACEE)](https://twitter.com/cbanier1)
 
-<h3>*Languages and Tools:* </h3>
-<img src="/icons/python.png"> 
+<h3>Languages and Tools: </h3>
+<img src="/icons/apple.png">
+<img src="/icons/intellij-idea.png">
+<img src="/icons/python.png">
+<img src="/icons/c.png">
+<img src="/icons/java.png">
+<img src="/icons/terminal.png">
 
 
 <!--
