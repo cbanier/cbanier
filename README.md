@@ -12,7 +12,7 @@ Good to see you here, I'm Corentin Banier and I'm a Mathematics and Computer Sci
    <img src="/icons/intellij-idea.png">
    <img src="/icons/python.png">
    <img src="/icons/c.png" width="48px">
-   <img src="/icons/java.jpg" width="48px">
+   <img src="/icons/java.png" width="48px">
    <img src="/icons/terminal.png" width="48px"></p>
 
 
